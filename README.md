@@ -1,4 +1,4 @@
 # Medical-Device-Portfolio
 
 # Project Documentation
-Please [Site under construction. Please view PDF](Colm Coffey_Medical Device Portfolio.pdf).
+Site under construction. Please [view the PDF](Colm%20Coffey_Medical%20Device%20Portfolio.pdf).
